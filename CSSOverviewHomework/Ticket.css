@@ -1,0 +1,52 @@
+﻿body {
+    background-color: ActiveCaption
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #595959;
+    width: 306px;
+    height: 206px;
+    text-align: left
+}
+
+th {
+    font-weight: normal;
+    font-family: Arial;
+    font-size: 20px;
+    color: ActiveCaption
+}
+
+td {
+    color: ActiveCaption;
+    font-family: Calibri
+}
+
+.datatype {
+    font-style: italic;
+    color: aliceblue;
+    vertical-align: text-top
+}
+
+.userinfo {
+    color: wheat;
+}
+
+.status {
+    font-weight: bold;
+    color: orangered
+}
+
+#support {
+    font-weight: bold;
+    color: #ff0001
+}
+
+.userstatus {
+    font-size: 25px;
+    color: #71b47a
+}
+
+#name {
+    vertical-align: text-top
+}
